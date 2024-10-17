@@ -20,7 +20,7 @@ Implement a Linear Regression model from scratch without using machine learning 
 
 ensure you have Python installed by checking the version with python --version. 
 
-Install the NumPy library, which the script relies on for efficient calculations, by running pip install numpy in the terminal.
+Install the NumPy library, by running pip install numpy in the terminal.
 
 Copy the provided code into a text editor and save it as a .py
 
