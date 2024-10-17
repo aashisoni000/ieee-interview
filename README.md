@@ -18,10 +18,18 @@ Implement a Linear Regression model from scratch without using machine learning 
 
 ### Instructions on how to run the code:
 
+ensure you have Python installed by checking the version with python --version. 
 
+Install the NumPy library, which the script relies on for efficient calculations, by running pip install numpy in the terminal.
+
+Copy the provided code into a text editor and save it as a .py
+
+Then run the program.
 
 ### A brief description of your approach. 
 
+
+The approach implemented in the code uses simple linear regression to model the relationship between years of experience and salary. The algorithm uses a method called gradient descent, which gradually adjusts the slope and intercept of a line to make the predictions as close as possible to the actual values. First, the program asks the user to enter the number of years of experience and salary for each employee. Then, it trains the model with this data by repeatedly improving the slope and intercept based on how far off the predictions are. Once the training is done, the program can predict salaries for the provided experience values and also lets the user enter new experience levels to predict future salaries.
 
 
 
