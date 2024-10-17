@@ -1,5 +1,5 @@
 
-# IEEE SRM Student Chapter Recruitment Tasks
+# IEEE SRM SB R&D Domain Recruitment Tasks
 Hello! 
 myself Aashi and these are all the tasks. 
 
